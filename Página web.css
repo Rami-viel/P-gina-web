@@ -1,0 +1,125 @@
+*{ 
+   background-color: rgb(135, 93, 175); 
+}
+h1{
+     margin:150px;
+     padding:50px;
+     background-color:navy;
+     font-family:'Permanent Marker', cursive;
+     font-size: 100px;
+     color: white;
+     border-style:groove
+     
+    }
+h3{
+    margin:200px;
+    padding:50px;
+    font-family:'Carter One', cursive;
+    text-decoration: wavy;
+    color:rgb(45, 230, 174);
+    background-color:rgb(255, 243, 174);
+    font-size: 30px;
+    border-width: 20px;
+    border-style: double;
+    border-color:rgb(45, 230, 174);
+
+
+}
+p{
+    font-family:'Kalam', cursive;
+    font-size: 35px;
+
+}
+#fantasmin{
+    background-color: pink;
+    margin:120px;
+    padding: 200px;
+    height: 1200px;
+    width: 1000px;
+    border-width: 40px;
+    border-style: solid;
+    border-color: aquamarine;
+}
+#fantasma1{
+    width: 500px;
+    height: 350px;
+    margin-right:300px;
+}
+#fantasma2{
+    width: 500px;
+    height: 350px;
+    margin-right: 300px;
+  
+
+
+}
+#fantasma3{
+    width: 400px;
+    height: 350px;
+    margin-left:300;
+
+}
+h2{
+    margin: 200px;
+    padding:50px;
+    font-family:'Carter One', cursive;
+    text-decoration: underline;
+    color:rgb(103, 240, 240);
+    background-color: rgb(220, 151, 248);
+    font-size: 60px;
+    border-width: 40px;
+    border-style: solid;
+    border-color: rgb(84, 182, 221);
+}
+
+ul{
+    font-family:'Playfair Display', serif;
+    font-size:20px;
+    padding:20px;
+    margin-right: 2000px;
+}
+div{
+    font-family:'Playfair Display', serif;
+    font-size:20px;
+    padding:20px;
+}
+#Ojancano{
+    height: 600px;
+    width: 590px;
+    margin:30px;
+    
+
+}
+#Dama{
+    height: 600px;
+    width: 590px;
+    margin:30px;
+
+}
+#Monjes{
+    height: 600px;
+    width: 750px;
+    margin:30px;
+
+}
+#Arroyo{
+    height: 500px;
+    width: 590;
+    margin:30px;
+
+}
+
+#reigen{
+    height: 250;
+    border-image: round;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+
+}
+footer{
+    color:white;
+    font-size:50px;
+
+}
